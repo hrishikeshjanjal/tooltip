@@ -1,4 +1,4 @@
-### Hosted at : https://baishalid.github.io/react-tooltip/
+
 
 ## Functionality
 
